@@ -1,0 +1,31 @@
+Customer_ID,Age,Gender,Annual_Income,Browsing_Time ,Items_Viewed,Added_to_Cart,Purchased,Purchase_Amount,Customer_Satisfaction,Category
+1,25,Male,40000,15,5,1,1,50,4,Electronics
+2,34,Female,55000,20,7,0,0,0,3,Fashion
+3,45,Male,70000,5,3,1,1,100,5,Home Decor
+4,29,Female,48000,30,8,1,0,0,2,Electronics
+5,41,Male,60000,10,4,1,1,75,5,Fashion
+6,38,Female,52000,18,6,0,1,60,3,Electronics
+7,50,Male,80000,7,5,1,1,90,4,Home Decor
+8,23,Female,35000,25,10,1,0,0,2,Fashion
+9,31,Male,45000,22,7,1,1,65,4,Electronics
+10,27,Female,40000,12,4,0,0,0,3,Fashion
+11,36,Male,62000,8,3,1,1,85,5,Home Decor
+12,42,Female,58000,28,9,1,1,95,4,Electronics
+13,39,Male,61000,9,3,1,0,0,2,Fashion
+14,30,Female,46000,20,6,1,1,55,3,Home Decor
+15,48,Male,75000,6,4,1,1,110,5,Electronics
+16,26,Female,42000,15,5,0,0,0,2,Fashion
+17,35,Male,54000,18,7,1,1,80,4,Home Decor
+18,47,Female,70000,10,4,1,1,120,5,Electronics
+19,29,Male,50000,23,8,0,0,0,3,Fashion
+20,51,Female,85000,5,3,1,1,130,5,Home Decor
+21,40,Male,68000,12,5,1,1,70,4,Electronics
+22,33,Female,49000,27,9,1,1,105,5,Fashion
+23,37,Male,63000,9,4,0,0,0,2,Home Decor
+24,28,Female,44000,22,6,1,1,60,3,Electronics
+25,46,Male,73000,7,3,1,1,95,4,Fashion
+26,32,Female,47000,14,5,0,0,0,2,Home Decor
+27,43,Male,64000,11,4,1,1,85,5,Electronics
+28,50,Female,78000,6,3,1,1,125,5,Fashion
+29,24,Male,37000,19,7,1,0,0,3,Home Decor
+30,31,Female,46000,20,6,1,1,55,4,Electronics
