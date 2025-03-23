@@ -1,6 +1,9 @@
 This repository showcases my work in data analysis and data science. Each project involves working with messy datasets, applying SQL and Python for data cleaning, and building predictive models to generate insights and solve problems.
 ---
 
+It's important to mention that this is an ever-evolving repository, where the tasks presented may not be complete yet. However, work in progress will continue to be added over time. 
+Also, there are various approaches and comments highlighting what was done and assumed.
+
 ## Skills & Techniques Used:
 
 ### **Data Preprocessing & Cleaning**
@@ -35,7 +38,7 @@ This repository showcases my work in data analysis and data science. Each projec
   - Conducted **exploratory data analysis (EDA)**
   - Used **machine learning models** (I used all the models mentioned above and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Results**: 
+- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
 
 
 ### **Project 2: Finance**
@@ -46,7 +49,7 @@ This repository showcases my work in data analysis and data science. Each projec
   - Conducted **exploratory data analysis (EDA)**
   - Used **machine learning models** (I used all the models mentioned above, except the time series ones, and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Results**: [Summarize findings or model performance]
+- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
 
 
 ### **Project 3: Soccer Analysis**
@@ -57,10 +60,10 @@ This repository showcases my work in data analysis and data science. Each projec
   - Conducted **exploratory data analysis (EDA)**
   - Built and fine-tuned **machine learning models** (I used all the models mentioned above, except the time series ones,  and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Results**: [Summarize findings or model performance]
+- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
 
 ## Simple Models Folder
-This folder contains implementations of commonly used machine learning models, including:
+This folder contains implementations of commonly used machine learning models (which conrrespond to the headers), including:
 - Linear & Logistic Regression
 - Random Forest, Decision Tree & XGBoost
 - Gradient Boosting
@@ -68,5 +71,4 @@ This folder contains implementations of commonly used machine learning models, i
 - Neural Networks (Basic MLP)
 - Time Series Forecasting (ARIMA, SARIMA, Exponential Smoothing)
   
-It's important to mention that this is an ever-evolving repository, where the tasks presented may not be complete yet. However, work in progress will continue to be added over time. 
-Also, there are various approaches and comments highlighting what was done and assumed.
+
