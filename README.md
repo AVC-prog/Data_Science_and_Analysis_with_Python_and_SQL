@@ -1,7 +1,7 @@
 This repository showcases my work in data analysis and data science. Each project involves working with messy datasets, applying SQL and Python for data cleaning, and building predictive models to generate insights and solve problems.
 ---
 
-It's important to mention that this is an ever-evolving repository, where the tasks presented may not be complete yet. However, work in progress will continue to be added over time. 
+It's important to mention that this is an ever-evolving repository, where the tasks presented may not be fully completed yet. However, work in progress will continue to be added over time. 
 Also, there are various approaches and comments highlighting what was done and assumed.
 
 ## Skills & Techniques Used:
@@ -22,9 +22,9 @@ Also, there are various approaches and comments highlighting what was done and a
 - Detecting patterns & anomalies in data  
 
 ### **Machine Learning Models**
-- **Supervised Learning**: Linear Regression, Logistic Regression, Random Forest, Decision Tree, XGBoost, Gradient Boosting, KNN, Neural Networks  
-- **Unsupervised Learning**: K-Means Clustering, PCA for dimensionality reduction  
-- **Time Series Forecasting**: ARIMA, SARIMA, Exponential Smoothing 
+- **Supervised Learning**: Linear Regression, Logistic Regression, Random Forest, Decision Tree, XGBoost, Gradient Boosting, KNN, and Neural Networks  
+- **Unsupervised Learning**: K-Means Clustering and PCA for dimensionality reduction  
+- **Time Series Forecasting**: ARIMA, SARIMA, and Exponential Smoothing 
 
 ---
 
@@ -64,11 +64,13 @@ Also, there are various approaches and comments highlighting what was done and a
 
 ## Simple Models Folder
 This folder contains implementations of commonly used machine learning models (which conrrespond to the headers), including:
-- Linear & Logistic Regression
-- Random Forest, Decision Tree & XGBoost
+- Linear Regression
+- Logistic Regression
+- Random Forest, Decision Tree
 - Gradient Boosting
-- K-Means & PCA
 - Neural Networks (Basic MLP)
+- K-Means
+- Principal Component Analysis (PCA)
 - Time Series Forecasting (ARIMA, SARIMA, Exponential Smoothing)
   
 
