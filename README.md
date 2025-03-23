@@ -1,4 +1,4 @@
-This repository showcases my work in data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning modeling. Each project involves working with messy datasets, applying SQL and Python for data cleaning, and building predictive models to generate insights and solve problems.
+This repository showcases my work in data analysis and data science. Each project involves working with messy datasets, applying SQL and Python for data cleaning, and building predictive models to generate insights and solve problems.
 ---
 
 ## Skills & Techniques Used:
