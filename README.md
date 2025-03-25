@@ -42,7 +42,7 @@ Also, there are various approaches and comments highlighting what was done and a
 
 
 ### **Project 2: Finance**
-- **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results
+- **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results. It was purposefully made with a small number of rows to emphasize that a large sample of data is necessary to make the machine learning models work properly, as those can be decieving in certain instances.
 - **Dataset**: ChatGPT generated data (available on the project 2 folder as a csv file)
 - **Key Tasks**: 
   - Performed **data cleaning & feature engineering**
