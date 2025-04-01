@@ -38,7 +38,7 @@ Also, there are various approaches and comments highlighting what was done and a
   - Conducted **exploratory data analysis (EDA)**
   - Used **machine learning models** (I used all the models mentioned above and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
 
 ### **Project 2: Finance**
@@ -49,7 +49,7 @@ Also, there are various approaches and comments highlighting what was done and a
   - Conducted **exploratory data analysis (EDA)**
   - Used **machine learning models** (I used all the models mentioned above, except the time series ones, and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
 
 ### **Project 3: Soccer Analysis**
@@ -60,7 +60,7 @@ Also, there are various approaches and comments highlighting what was done and a
   - Conducted **exploratory data analysis (EDA)**
   - Built and fine-tuned **machine learning models** (I used all the models mentioned above, except the time series ones,  and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
 ### **Project 4: Car Sales Analysis**
 - **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results
@@ -70,7 +70,7 @@ Also, there are various approaches and comments highlighting what was done and a
   - Conducted **exploratory data analysis (EDA)**
   - Built and fine-tuned **machine learning models** (I used all the models mentioned above, except the time series ones,  and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
 ### **Project 5: Healthcare Insurance Analysis**
 - **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results
@@ -80,7 +80,17 @@ Also, there are various approaches and comments highlighting what was done and a
   - Conducted **exploratory data analysis (EDA)**
   - Built and fine-tuned **machine learning models** (I used all the models mentioned above, except the time series ones,  and extrapolated which ones work and which don't for acquiring useful information)
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
-- **Structure**: It has 5 main headers: Data Analysis (with pandas), Data science (with pandas), Data Analysis (with Pyspark), Data Science (with Pyspark), Transfering the data to MySQL server
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
+
+  ### **Project 6: Online Retail Analysis**
+- **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results
+- **Dataset**: (https://archive.ics.uci.edu/dataset/502/online+retail+ii))
+- **Key Tasks**: 
+  - Performed **data cleaning & feature engineering**
+  - Conducted **exploratory data analysis (EDA)**
+  - Built and fine-tuned **machine learning models** 
+  - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
 
 
