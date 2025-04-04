@@ -92,6 +92,15 @@ Also, there are various approaches and comments highlighting what was done and a
   - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
 - **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
+### **Project 7: Telecommunications Analysis**
+- **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results
+- **Dataset**: (https://github.com/harshbg/Telecom-Churn-Data-Analysis/blob/master/Telecom%20Churn.csv) (csv file is also available in the Project 7 folder)
+- **Key Tasks**: 
+  - Performed **data cleaning & feature engineering**
+  - Conducted **exploratory data analysis (EDA)**
+  - Used **machine learning models** (I used all the models mentioned above and extrapolated which ones work and which don't for acquiring useful information)
+  - Applied **SQL for data processing and analysis** as an alternative to Python Pandas and Pyspark
+- **Structure**: It has 3 main headers: Data Analysis (Using Pandas), Data Science (Using Pandas), Transfering the data to MySQL
 
 
 ## Simple Models Folder
