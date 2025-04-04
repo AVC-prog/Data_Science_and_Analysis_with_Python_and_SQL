@@ -54,7 +54,7 @@ Also, there are various approaches and comments highlighting what was done and a
 
 ### **Project 3: Soccer Analysis**
 - **Objective**: Cleaning and creating visualizations for the data and using statistics and various data science models to extrapolate results
-- **Dataset**: (csv file available in the Project 3 folder)
+- **Dataset**: (csv files available in the Project 3 folder)
 - **Key Tasks**: 
   - Performed **data cleaning & feature engineering**
   - Conducted **exploratory data analysis (EDA)**
