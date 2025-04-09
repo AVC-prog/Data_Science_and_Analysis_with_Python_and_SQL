@@ -2,6 +2,9 @@ This repository showcases my work in data analysis and data science. Each projec
 ---
 
 It's important to mention that this is an ever-evolving repository, where the tasks presented may not be fully completed yet. However, work in progress will continue to be added over time. 
+
+I believe that the best way to improve is through trial and error, and as such, you may encounter mistakes or less-than-perfect solutions within the code. Rather than hiding them, I’ve intentionally left them in place to hold myself accountable.
+
 Also, there are various approaches and comments highlighting what was done and assumed.
 
 ## Skills & Techniques Used:
